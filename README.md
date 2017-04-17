@@ -1,5 +1,5 @@
 # web4docker
-a website for things of Docker management
+a website for Docker things management
 
 ## how to try this project
 1. setup a docker installation on Linux(Ubuntu or Centos is better)
